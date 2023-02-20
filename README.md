@@ -1,1 +1,1 @@
-# lse_dsi_teaching
+# LSE DSI Teaching 
